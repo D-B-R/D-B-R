@@ -1,4 +1,4 @@
-# Olá sou Daniel 🚀
+# Olá sou Daniel Bernardo 🚀
 
 Sou Daniel Bernardo Rocha, estudante em Ciência da Computação pela Universidade Estadual do Norte do Paraná (UENP).
 
